@@ -4,7 +4,11 @@
 
 ## [v12.2.0](https://github.com/laravel/laravel/compare/v12.1.0...v12.2.0) - 2025-07-11
 
-* Add Vite 7 support by [@timacdonald](https://github.com/timacdonald) in https://github.com/laravel/laravel/pull/6639
+
+* Update welcome template by @taylorotwell in https://github.com/laravel/laravel/commit/d3287461e15862d1c7a8f10925988b4f1640d92b
+
+## [v10.3.2](https://github.com/laravel/laravel/compare/v10.3.1...v10.3.2) - 2024-01-04
+
 
 ## [v12.1.0](https://github.com/laravel/laravel/compare/v12.0.11...v12.1.0) - 2025-07-03
 
